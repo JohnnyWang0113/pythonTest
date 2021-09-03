@@ -24,3 +24,4 @@ def xh():
 
 # 加一条注释
 driver.quit()
+driver.quit()
